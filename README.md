@@ -1,28 +1,30 @@
-# XOX Oyunu
+# XOX Game
 
-Bu proje, Java dilinde geliştirilmiş basit bir XOX (Tic-Tac-Toe) oyunudur.
+This project is a simple XOX (Tic-Tac-Toe) game developed in Java.
 
-## Özellikler
+## Features
 
-- Kullanıcı dostu arayüz: Basit ve anlaşılabilir bir arayüz ile oyun deneyimini geliştirir.
-- Oyun Geçmişi: Oynanan oyunların geçmişini gösteren bir bölüm.
+- User-friendly interface: Enhances the gaming experience with a simple and understandable interface.
+- Game History: Displays the history of played games.
 
-## Başlarken
+## Getting Started
 
-Bu adımları izleyerek projeyi çalıştırabilirsiniz:
+Follow these steps to run the project:
 
-1. Projeyi bilgisayarınıza klonlayın.
-2. Bir Java IDE (Integrated Development Environment) kullanarak projeyi açın.
-3. Proje dosyalarını çalıştırın ve oyunun keyfini çıkarın!
+1. Clone the project to your computer.
+2. Open the project using a Java IDE (Integrated Development Environment).
+3. Run the project files and enjoy the game!
 
-## Kullanım
+## Usage
 
-Oyunu başlattığınızda, karşınıza bir XOX oyun panosu çıkacaktır. Sırayla işaretler yerleştirerek oyunu oynayabilirsiniz. Kazananı belirlemek için üç aynı işareti yan yana, çapraz veya dikey olarak sıralamanız gerekir.
+When you start the game, you will see a XOX game board. You can play the game by placing marks in turns. To determine the winner, you need to align three identical marks horizontally, vertically, or diagonally.
 
-## Katkıda Bulunma
+## Contributing
 
-Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz! Herhangi bir öneriniz veya iyileştirme fikriniz varsa, lütfen bir pull talebi açın veya bir konu oluşturun.
+This project is open source, and we welcome contributions! If you have any suggestions or improvement ideas, please open a pull request or create an issue.
 
-## Lisans
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
