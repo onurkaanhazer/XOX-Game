@@ -27,4 +27,4 @@ This project is open source, and we welcome contributions! If you have any sugge
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
+
